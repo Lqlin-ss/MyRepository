@@ -32,7 +32,7 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
-- (NSArray *)lines:(BOOL)fill {
+- (NSArray *)lines:(BOOL)fill {//哈哈哈哈😆
     NSArray *pointsArr = @[@{@"xValue" : @"16-2", @"yValue" : @"1000"},
                            @{@"xValue" : @"16-3", @"yValue" : @"1086"},
                            @{@"xValue" : @"16-4", @"yValue" : @"2000"},
