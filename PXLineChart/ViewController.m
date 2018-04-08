@@ -34,6 +34,7 @@
 
 - (NSArray *)lines:(BOOL)fill {
     NSArray *pointsArr = @[@{@"xValue" : @"16-2", @"yValue" : @"1000"},
+                           @{@"xValue" : @"16-3", @"yValue" : @"1086"},
                            @{@"xValue" : @"16-4", @"yValue" : @"2000"},
                            @{@"xValue" : @"16-6", @"yValue" : @"1700"},
                            @{@"xValue" : @"16-8", @"yValue" : @"3100"},
